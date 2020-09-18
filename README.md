@@ -1,2 +1,4 @@
 # Hello-world
-Just another repository
+Hi Human's
+Hubot here,I like Node.js and coffeescript.
+Find a super hero.
